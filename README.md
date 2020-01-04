@@ -8,7 +8,7 @@ To run all the ipynb files you must have Python 3.6+ and Jupyter installed.
 
 ## Contact information
 
-Please don't hesitate to sent an email to floristerbraak@gmail.com if you have an comments or questions. 
+Please don't hesitate to sent an email to floristerbraak@gmail.com if you have an suggestions, comments or questions. 
 
 ## License
 
